@@ -14,11 +14,13 @@ The data in the output file represents the number of equations. By solving these
 *********************************
   
   IDE: Xcode
+  
   C++ Compiler = C++20
 
 *********************************
 
   Islam M. Albazlamit
+  
   islam.albazlamit@outlook.com
 
 *********************************
