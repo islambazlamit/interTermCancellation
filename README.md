@@ -22,5 +22,7 @@ The data in the output file represents the number of equations. By solving these
   Islam M. Albazlamit
   
   islam.albazlamit@outlook.com
-
+  
+  LinkedIn: https://www.linkedin.com/in/islambzl/
+  
 *********************************
